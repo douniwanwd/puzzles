@@ -27,6 +27,7 @@ public class HelloWorld {
         } else {
             System.out.println("No");
         }
+        System.out.println("test");
     }
     public static void main(String[] args) throws Exception {
         String input = "redered";
